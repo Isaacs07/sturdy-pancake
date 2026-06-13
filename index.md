@@ -8,7 +8,7 @@ nav_order: 1
 
 This site is a working skeleton for my PhD pathway.
 
-It is not a final thesis, literature review, or polished research output. Instead, it is a space to organise the development of my thinking across data visualisation, accessibility, physicalisation, decision-making, and applied partner work.
+It is not a final thesis, literature review, or polished research output. It is a space to organise the development of my thinking across data visualisation, accessibility, physicalisation, decision-making, and applied partner questions.
 
 ## What this site is for
 
@@ -16,17 +16,17 @@ It is not a final thesis, literature review, or polished research output. Instea
 - Keeping track of key lenses and how they develop
 - Connecting theoretical ideas to partner questions
 - Holding notes, readings, methods, and supervision reflections
-- Making gaps and next steps visible
+- Making gaps, decisions, and next steps visible
 
 ## Current pathway
 
 My work is developing around three connected lenses:
 
-1. **Access-first visualization**
+1. **Access-first visualisation**
 2. **Decision under pressure**
 3. **Embodied, multisensory, and communicative interaction**
 
-These lenses are currently provisional. The aim is to test and refine them through readings, supervision, partner projects, and applied design work.
+These lenses are provisional. The aim is to test and refine them through reading, supervision, partner questions, and applied design work.
 
 ## How to read this site
 
