@@ -1,7 +1,7 @@
 ---
-title: Page Title
+title: Decision Under Pressure
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Page Title
